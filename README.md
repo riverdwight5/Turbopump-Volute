@@ -2,7 +2,7 @@
 
 Inputs, equations, and codes for volute
 
-%variables
+% inputs
 throat velocity = C;
 flow rate = Q;
 throat area = A;
@@ -34,7 +34,7 @@ angle with radial line of section = phi;
 distance between impeller and volute = x;
 max entrance width of volute = b3;
 
-%equations
+% equations
 A = (Q*10^6)/C;
 r1 = 0.5*sqrt((A*4))/pi);
 r3 = r1+r1+t;
