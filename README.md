@@ -1,3 +1,3 @@
 # Turbopump-Volute
 
-Inputs, equations, and codes for volute
+Variables and equations for volute
